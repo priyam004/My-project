@@ -7,7 +7,7 @@ TestDisk 6.13, Data Recovery Utility, November 2011
 Christophe GRENIER <grenier@cgsecurity.org>
 http://www.cgsecurity.org
 OS: Darwin, kernel 11.4.2 (Darwin Kernel Version 11.4.2: Thu Aug 23 16:25:48 PDT 2012; root:xnu-1699.3
-Compiler: GCC 4.0
+Compiler: GCC 4.10
 Compilation date: 2011-11-15T08:36:43
 ext2fs lib: 1.41.8, ntfs lib: libntfs-3g, reiserfs lib: 0.3.1-rc8, ewf lib: 20100226
 User is not root!
